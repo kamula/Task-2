@@ -12,3 +12,5 @@ The function takes in the loan amount, loan term, interest rate, and repayment f
 4. On Windows Operating system, Open the Terminal and run the code using `python main.py`
 
 You will get an output like the one shown below:
+
+![loan repayment](https://user-images.githubusercontent.com/35394098/218461343-70554934-0751-455f-9a46-e916166698a0.png)
