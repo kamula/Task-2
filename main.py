@@ -37,4 +37,4 @@ def loan_repayment_calculator(loan_amount, loan_term, interest_rate, repayment_f
         'Repayment Table': repayment_table
     }
 
-# print(loan_repayment_calculator(5000, 2, 1.4, 12))
+print(loan_repayment_calculator(5000, 2, 1.4, 12))
